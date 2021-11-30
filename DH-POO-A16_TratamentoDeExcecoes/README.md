@@ -1,4 +1,4 @@
-<div align="right"> <img src="https://github.com/lipollis/Imagens-Git/blob/main/sun%20-%20git.jpg" width="50px"/> </div>
+<div align="center"><img src="https://github.com/lipollis/Imagens-Git/blob/main/banner_assinatura.svg" /></div>
 
 <h1 align="center"> Aula 16 - Tratamento de Exceções </h1>
 <h2 align="center"> Programação Orientada a Objeto - CTD:Digital House </h2>
