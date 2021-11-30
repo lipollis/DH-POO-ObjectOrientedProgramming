@@ -7,7 +7,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70px"/>
   <br>
   <br>
-  
+</div>  
 
 <br>
 <h2>:beginner: Objetivo</h2>
@@ -20,14 +20,8 @@ Padrão Composite.</p>
 
 
   <ul>
-      <li>Deve ser desenvolvido o carrinho de compras de um serviço de e-commerce
-para uma rede de fast food. Eles devem modelar um carrinho capaz de
-adicionar os produtos que os usuários desejam comprar (diferentes
-sanduíches e acompanhamentos como batatas fritas, saladas e
-refrigerantes). Eles são conhecidos por nome e preço.</li>
-      <li>Além disso, você deseja poder adicionar menus especiais (combos) ao
-carrinho que já estão organizados com uma seleção de produtos diferentes
-e o preço do combo é a soma do preço de cada um dos produtos.</li>
+      <li>Deve ser desenvolvido o carrinho de compras de um serviço de e-commerce para uma rede de fast food. Eles devem modelar um carrinho capaz de adicionar os produtos que os usuários desejam comprar (diferentes sanduíches e acompanhamentos como batatas fritas, saladas e refrigerantes). Eles são conhecidos por nome e preço.</li><br>
+      <li>Além disso, você deseja poder adicionar menus especiais (combos) ao carrinho que já estão organizados com uma seleção de produtos diferentes e o preço do combo é a soma do preço de cada um dos produtos.</li><br>
       <li>O carrinho deve poder informar quanto é o total da compra.</li>
 
   </ul>
