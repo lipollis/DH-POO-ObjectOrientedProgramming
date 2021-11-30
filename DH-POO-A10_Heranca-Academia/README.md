@@ -7,7 +7,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70px"/>
   <br>
   <br>
-  
+</div>  
 
 <br>
 <h2>:beginner: Objetivo</h2>
@@ -18,19 +18,11 @@
 <h2>:heavy_check_mark: Requisitos </h2>
 
 <ol>
-  <li>Uma academia já possui um sistema que contém um módulo para cobrança de
-    mensalidades de seus associados.</li>
+  <li>Uma academia já possui um sistema que contém um módulo para cobrança de mensalidades de seus associados.</li>
     <ul>
-      <li>Os associados no sistema têm um código de
-        associado, nome, taxa mensal, atividade que realizam - este é apenas o nome da
-        atividade.</li>
-      <li>A academia incorporou nas suas instalações uma piscina, pelo que oferece acessos
-        adicionais à mesma, esta tem um custo extra fixo e para entrar o membro deve estar
-        habilitado, ou seja, fazer um check-up médico.</li>
-      <li>Para incorporar este novo serviço, o
-        analista propõe estender as classes existentes da seguinte forma: a academia precisa
-        saber qual é a taxa que o integrante deve pagar, caso não esteja habilitado a entrar
-        na piscina, não há cobrança de custo adicional.</li>
+      <li>Os associados no sistema têm um código de associado, nome, taxa mensal, atividade que realizam - este é apenas o nome da atividade.</li>
+      <li>A academia incorporou nas suas instalações uma piscina, pelo que oferece acessos adicionais à mesma, esta tem um custo extra fixo e para entrar o membro deve estar habilitado, ou seja, fazer um check-up médico.</li>
+      <li>Para incorporar este novo serviço, o analista propõe estender as classes existentes da seguinte forma: a academia precisa saber qual é a taxa que o integrante deve pagar, caso não esteja habilitado a entrar na piscina, não há cobrança de custo adicional.</li>
 
   </ul>
 </ol>

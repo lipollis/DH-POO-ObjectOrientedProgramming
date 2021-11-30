@@ -7,7 +7,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70px"/>
   <br>
   <br>
-  
+</div>  
 
 <br>
 <h2>:beginner: Objetivo</h2>
