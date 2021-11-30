@@ -1,5 +1,5 @@
 <div align="center"><img src="https://github.com/lipollis/Imagens-Git/blob/main/banner_assinatura.svg" /></div>
-
+ 
 <h1 align="center"> Aula 20 - State - Exercicio Tamagochi </h1>
 <h2 align="center"> Programação Orientada a Objeto - CTD:Digital House </h2>
 
