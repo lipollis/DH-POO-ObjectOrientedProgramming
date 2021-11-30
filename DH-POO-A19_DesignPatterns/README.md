@@ -7,7 +7,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70px"/>
   <br>
   <br>
-  
+</div>  
 
 <br>
 <h2>:beginner: Objetivo</h2>
@@ -17,22 +17,17 @@
 <br>
 <h2>:heavy_check_mark: Requisitos </h2>
 
-<p align="justify">Dada a seguinte família de classes, você tem o desafio de otimizar o projeto, levando
-em consideração que precisamos construir objetos dessas classes a partir de diferentes
-parâmetros estabelecidos.<br>
-Se recebermos “EMP-INT” como parâmetro, você deverá ser capaz de construir um
-objeto da classe EmpregadoRelacaoDependencia, e se o parâmetro for “EMP-EXT”,
-deverá ser capaz de construir um objeto da classe EmpregadoContratado.<br></p>
+<p align="justify">Dada a seguinte família de classes, você tem o desafio de otimizar o projeto, levando em consideração que precisamos construir objetos dessas classes a partir de diferentes parâmetros estabelecidos.<br></p>
 
+<p align="justify">Se recebermos “EMP-INT” como parâmetro, você deverá ser capaz de construir um objeto da classe EmpregadoRelacaoDependencia, e se o parâmetro for “EMP-EXT”, deverá ser capaz de construir um objeto da classe EmpregadoContratado.<br></p>
+<br>
+<br>
 
 <ol>
   <li>Com base no enunciado, faça:</li>
     <ul>
       <li>Modifique o diagrama de classes com a implementação do padrão Factory.</li>
-      <li>A programação do método calcularSalario que retorna (não mostra no console) o
-salário para o número de dias que o referido método recebe como parâmetro. Leve em
-consideração que, no caso de empregados em regime de dependência, deve-se calcular
-o proporcional aos dias trabalhados.</li>
+      <li>A programação do método calcularSalario que retorna (não mostra no console) o salário para o número de dias que o referido método recebe como parâmetro. Leve em consideração que, no caso de empregados em regime de dependência, deve-se calcular o proporcional aos dias trabalhados.</li>
       <li>Considerações: Considere que todos os meses têm 30 dias e trabalham 8 horas por dia.</li>
 
   </ul>
